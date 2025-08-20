@@ -5,7 +5,7 @@ AONE Technologies to nowoczesny projekt skupiający się na tworzeniu rozwiąza�
 - Wspieranie twórców i społeczności open source.
 - Rozwój kompetencji IT poprzez edukację i wymianę wiedzy.
 
-### Co znajdziesz w naszej organizacji?
+### Co tutaj znajdziesz?
 - Publiczne repozytoria z aplikacjami webowymi, narzędziami oraz bibliotekami.
 - Przykłady wdrożeń, tutoriale i dokumentację techniczną.
 - Projekty edukacyjne i materiały wspierające naukę programowania.

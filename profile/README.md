@@ -1,17 +1,17 @@
-AONE Technologies to nowoczesny projekt skupiający się na tworzeniu rozwiązań IT wspierających biznes, edukację oraz rozrywkę. Naszym celem jest dostarczanie wysokiej jakości oprogramowania, które ułatwia życie i pracę użytkowników. Działamy w duchu otwartości, innowacji oraz współpracy.
+AONE Technologies to nowoczesny projekt skoncentrowany na tworzeniu rozwiązań IT przeznaczonych do wsparcia biznesu, edukacji oraz rozrywki. Celem inicjatywy pozostaje dostarczanie wysokiej jakości oprogramowania, które ułatwia codzienne funkcjonowanie oraz realizację zadań użytkowników. Projekt funkcjonuje w duchu otwartości, innowacyjności oraz współpracy.
 
-### Nasza misja
+### Misja
 - Tworzenie użytecznych, bezpiecznych i intuicyjnych narzędzi cyfrowych.
-- Wspieranie twórców i społeczności open source.
-- Rozwój kompetencji IT poprzez edukację i wymianę wiedzy.
+- Wspieranie twórców oraz społeczności open source.
+- Rozwój kompetencji IT poprzez edukację i dzielenie się wiedzą.
 
 ### Co tutaj znajdziesz?
-- Publiczne repozytoria z aplikacjami webowymi, narzędziami oraz bibliotekami.
-- Przykłady wdrożeń, tutoriale i dokumentację techniczną.
-- Projekty edukacyjne i materiały wspierające naukę programowania.
+- Publiczne repozytoria zawierające aplikacje webowe, narzędzia i biblioteki.
+- Przykłady wdrożeń, tutoriale oraz dokumentacja techniczna.
+- Projekty edukacyjne oraz materiały wspierające naukę programowania.
 
-### Dołącz do nas!
-Zapraszamy do współpracy, zgłaszania uwag, rozwoju projektów oraz wspólnego budowania otwartego i nowoczesnego ekosystemu IT.
+### Partnerstwo i rozwój
+Możliwość zgłaszania uwag, rozwoju projektów oraz wspólnego kreowania otwartego i nowoczesnego ekosystemu IT.
 
 ---
 

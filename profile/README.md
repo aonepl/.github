@@ -15,7 +15,7 @@ Możliwość zgłaszania uwag, rozwoju projektów oraz wspólnego kreowania otwa
 
 ---
 
-Masz pomysł lub pytania? Skontaktuj się z nami przez [GitHub Issues](https://github.com/aonepl/.github/issues) lub email: kontakt@aone.pl
+Pomysły i pytania można zgłaszać poprzez [GitHub Issues](https://github.com/aonepl/.github/issues) lub na adres email: kontakt@aone.pl
 
 <!--
 
